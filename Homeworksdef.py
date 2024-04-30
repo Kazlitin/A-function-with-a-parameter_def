@@ -5,4 +5,4 @@ def print_params(name):
 
 print_params(56757)
 print_params("вывел 2 раза")
-print_params({'ключ', 2})
+print_params({'ключ': '2'})
